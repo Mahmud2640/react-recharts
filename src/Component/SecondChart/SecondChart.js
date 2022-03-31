@@ -4,43 +4,43 @@ import { Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 const SecondChart = () => {
    const data = [
       {
-        "name": "Page A",
+        "name": "Group A",
         "price": 4000,
         "total": 2400,
         "final": 2400
       },
       {
-        "name": "Page B",
+        "name": "Group B",
         "price": 3000,
         "total": 1398,
         "final": 2210
       },
       {
-        "name": "Page C",
+        "name": "Group C",
         "price": 2000,
         "total": 9800,
         "final": 2290
       },
       {
-        "name": "Page D",
+        "name": "Group D",
         "price": 2780,
         "total": 3908,
         "final": 2000
       },
       {
-        "name": "Page E",
+        "name": "Group E",
         "price": 1890,
         "total": 4800,
         "final": 2181
       },
       {
-        "name": "Page F",
+        "name": "Group F",
         "price": 2390,
         "total": 3800,
         "final": 2500
       },
       {
-        "name": "Page G",
+        "name": "Group G",
         "price": 3490,
         "total": 4300,
         "final": 2100
